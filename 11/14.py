@@ -10,5 +10,4 @@ def f(n):
     return flist[n]
 
 
-print f(6)  
-
+print f(6)
